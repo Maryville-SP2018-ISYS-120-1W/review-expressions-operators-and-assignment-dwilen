@@ -13,5 +13,21 @@
  
  You should write your story bits in comments (e.g., between /* and */, or lines starting with // ) around where the code should go.
  
-*/
+*/let apple = 12
+let orange = 9
+/* I have a pile of all the apples and all the lemons, how many total fruits do I have */
+var appleslemons = 12 + 7
+// appleslemons has a value of 19
+/* For every orange I take away an apple */
+var applesminusoranges = 12 - 9
+//applesminusoranges has a value of 3
+/* For every lemon I multiply 9 oranges to the total */
+var orangetimeslemon = 7 * 9
+// orangetimeslemon has a value of 63
+var myfruits = 28
+/* I lose half of my total fruits when it comes to apples */
+myfruits = myfruits - 6
+// Updates myfruits to the current value minus 6
+
+
 
